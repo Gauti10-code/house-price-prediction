@@ -15,12 +15,14 @@ Seaborn
 Scikit-learn
 XGBoost
 Google Colab
+
 **Workflow
-**1. Understanding the Data
+1. Understanding the Data
 Analyzed dataset structure and feature information
 Identified numerical and categorical variables
 Checked missing values and outliers
 Understood relationships between features and target variable
+
 2. Exploratory Data Analysis (EDA)
 
 Performed detailed EDA to identify important trends and patterns:
@@ -53,6 +55,7 @@ Applied multiple encoding techniques for categorical variables:
 One Hot Encoding (OHE)
 Target Encoding
 Feature Aggregation Encoding
+
 7. Clustering
 
 Used KMeans clustering to:
@@ -82,8 +85,5 @@ Multiple categorical encoding strategies
 Cluster-based feature creation using KMeans
 High-performance gradient boosting model using XGBoost
 End-to-end ML pipeline implementation
-Project Structure
-house-price-prediction/
-│
-├── notebooks/
-│   └── h
+
+
